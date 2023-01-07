@@ -28,9 +28,10 @@ Some examples:
 
 ### Adjusted R-Square
 
-$$ Adj R^2 = 1 - \frac{(1-R^2)(n-1)}{n-k-1} $$
-k - number of independent variables 
-n - sample size
+$$\text{Adj} R^2 = 1 - \frac{(1-R^2)(n-1)}{n-k-1}$$
+
+- `k` - number of independent variables 
+- `n` - sample size
 
 
 ## Regression Model Selection in Python
