@@ -13,3 +13,25 @@ In this part, you will understand and learn how to implement the:
 5. Naive Bayes
 6. Decision Tree Classification
 7. Random Forest Classification
+
+## Classification Model Selection
+
+### Confusion Matrix & Accuracy
+
+![confusion_matrix](./confusion_matrix.png)
+
+## Evaluating Classification Models Perofrmance
+
+### Accuracy Paradox
+
+![accuracy-paradox](./accuracy-paradox.png)
+
+![accuracy-paradox-2](./accuracy-paradox2.png)
+
+### CAP curve
+
+- `CAP` = Cumulative Accuracy Profile
+
+![cap-curve](./cap-curve.png)
+
+![cap-analysis](./cap-analysis.png)
